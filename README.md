@@ -4,9 +4,10 @@ Hi 👋 My name is Usman Bashir
 Fullstack Software Enginner
 ----------------------------------
 
-Experienced Senior Full stack Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Javascript , PHP, DevOps, CakePHP, PhpStorm, and Amazon Web Services (AWS) , Node js ,React js , Flutter , Express , Laravel , CI / CD , GraphQl , Rest Api , Json , Nest JS , Typescript . Strong engineering professional with a Diploma of Education focused in Computer Programming from Aptech Pakistan.
 
-* 🌍  I'm based in Karachi , Pakistan
+An accomplished Full Stack Software Engineer with a proven track record in the dynamic field of information technology and services. My skill set encompasses a wide array of technologies, including Javascript, PHP, and DevOps, with proficiency in frameworks such as CakePHP, PhpStorm, and Amazon Web Services (AWS). I bring extensive expertise in Node.js, React.js, Flutter, Express, Laravel, CI/CD, GraphQL, REST API, JSON, Nest.js, and Typescript. My commitment to excellence is underscored by a solid foundation in computer programming, supported by a Diploma of Education from Aptech Pakistan. With a passion for staying at the forefront of technology trends, I am poised to drive innovative solutions and contribute significantly to your projects.
+
+* 🌍  I'm based in Karachi, Pakistan
 * 🖥️  See my portfolio at [Portfolio](http://www.linkedin.com/in/usmandev/)
 * ✉️  You can contact me at [usman.amir48@gmail.com](mailto:usman.amir48@gmail.com)
 * 🚀  I'm currently working on [Netsuite Customization](http://netsuite.com/)
