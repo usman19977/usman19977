@@ -1,7 +1,7 @@
-Hi 👋 My name is Usman Amir Bashir
+Hi 👋 My name is Usman Bashir
 =============================
 
-Senior Fullstack software Enginner
+Fullstack Software Enginner
 ----------------------------------
 
 Experienced Senior Full stack Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Javascript , PHP, DevOps, CakePHP, PhpStorm, and Amazon Web Services (AWS) , Node js ,React js , Flutter , Express , Laravel , CI / CD , GraphQl , Rest Api , Json , Nest JS , Typescript . Strong engineering professional with a Diploma of Education focused in Computer Programming from Aptech Pakistan.
